@@ -37,6 +37,7 @@ class Program
           continuar1 = 1
         end
         continuar = 1 - continuar1
+        
       end
     end
   end
